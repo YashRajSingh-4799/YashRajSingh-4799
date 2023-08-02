@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
 <h3 align="center">A passionate Fullstack Developer from India & Curious and enjoy Competative Coding</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Web Development**
 
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashrajsingh-4799" alt="yashrajsingh-4799" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yr_singhx" target="blank"><img src="https://img.shields.io/twitter/follow/yr_singhx?logo=twitter&style=for-the-badge" alt="yr_singhx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yashrajs_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/yashrajs_tweet?logo=twitter&style=for-the-badge" alt="yashrajs_tweet" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
