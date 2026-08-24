@@ -11,8 +11,6 @@
 │  → Location:  Bangalore, India                                              │
 │  → Stack:     React · TypeScript · Next.js · Node.js                        │
 │  → Learning:  System Design & Backend Engineering                           │
-│  → Reach me:  yashrajsingh4799@gmail.com                                    │
-│  → Web:       https://www.yashrajsingh.social                               │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
