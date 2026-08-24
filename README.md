@@ -1,9 +1,21 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Yash%20Raj%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=60&descAlign=50">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Yash%20Raj%20Singh&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=60&descAlign=50">
-  </picture>
-</p>
+<pre align="center">
+┌────────────────────────────────────────────────────────────────────┐
+│  ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗  █████╗ ██╗        │
+│  ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██╔══██╗██║        │
+│   ╚████╔╝ ███████║███████╗███████║    ██████╔╝███████║██║        │
+│    ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔══██╗██╔══██║██║        │
+│     ██║   ██║  ██║███████║██║  ██║    ██║  ██║██║  ██║███████╗   │
+│     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   │
+├────────────────────────────────────────────────────────────────────┤
+│  ~ $ ./status.sh                                                  │
+│  → Role:      Software Engineer @ Atomicwork                      │
+│  → Location:  Bangalore, India                                    │
+│  → Stack:     React · TypeScript · Next.js · Node.js              │
+│  → Learning:  System Design & Backend Engineering                 │
+│  → Reach me:  yashrajsingh4799@gmail.com                          │
+│  → Web:       https://www.yashrajsingh.social                     │
+└────────────────────────────────────────────────────────────────────┘
+</pre>
 
 <p align="center">
   <a href="https://www.yashrajsingh.social/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
@@ -14,14 +26,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashrajsingh-4799&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashrajsingh-4799&label=Profile+Views&color=667eea&style=flat" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/yashrajsingh-4799?label=Followers&style=social" alt="Followers">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://img.shields.io/badge/Trophies-8A2BE2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTYgOUw0IDRsNC0xIi8+PHBhdGggZD0iTTE4IDlsMi01LTQgMSIvPjxwYXRoIGQ9Ik0xMiAyMnYtN2wtMy0zIDItMyIvPjxwYXRoIGQ9Ik0xMiAyMnYtN2wzLTMtMi0zIi8+PHBhdGggZD0iTTUgMTJsLTItMiAyLTIiLz48cGF0aCBkPSJNMTkgMTJsMi0yLTIgMiIvPjwvc3ZnPg==" alt="Trophies">
+  </a>
 </p>
 
 ---
@@ -49,7 +58,7 @@ const yash = {
 
 <p align="center">
   <a href="https://atomicwork.com">
-    <img src="https://img.shields.io/badge/Atomicwork-Software_Engineer-667eea?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="Atomicwork">
+    <img src="https://img.shields.io/badge/Atomicwork-Software_Engineer-667eea?style=for-the-badge" alt="Atomicwork">
   </a>
 </p>
 
@@ -135,12 +144,15 @@ aiming:     Open-source contributions in 2025
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="Footer Wave">
-</p>
+<pre align="center">
+┌────────────────────────────────────────────────────────────────────┐
+│  ~ $ echo "Thanks for stopping by!"                               │
+│  Thanks for stopping by!                                           │
+│  ~ $ ⭐ Star your favorite projects — it helps the community!     │
+│  ~ $ _                                                             │
+└────────────────────────────────────────────────────────────────────┘
+</pre>
 
 <p align="center">
   <sub>⚡ <i>"Building products that matter, one commit at a time."</i></sub>
-  <br>
-  <sub>⭐ Star your favorite repos — it helps the community!</sub>
 </p>
