@@ -105,42 +105,6 @@ const yash = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/yashrajsingh-4799">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashrajsingh-4799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajsingh-4799&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashrajsingh-4799">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajsingh-4799&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats">
-  </a>
-</p>
-
----
-
-## 🎯 Currently
-
-```yaml
-building:   SaaS features @ Atomicwork
-learning:   System Design & Backend Engineering
-exploring:  Cloud infrastructure & DevOps
-aiming:     Open-source contributions in 2025
-```
-
----
-
-## 🎓 Education
-
-| Institution | Duration |
-|:---|---:|
-| **Dr. A.P.J. Abdul Kalam Technical University** | 2020 – 2024 |
-
----
-
 <pre align="center">
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │  ~ $ echo "Thanks for stopping by!"                                        │
