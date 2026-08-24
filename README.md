@@ -1,20 +1,20 @@
 <pre align="center">
-┌────────────────────────────────────────────────────────────────────┐
-│  ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗  █████╗ ██╗        │
-│  ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██╔══██╗██║        │
-│   ╚████╔╝ ███████║███████╗███████║    ██████╔╝███████║██║        │
-│    ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔══██╗██╔══██║██║        │
-│     ██║   ██║  ██║███████║██║  ██║    ██║  ██║██║  ██║███████╗   │
-│     ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   │
-├────────────────────────────────────────────────────────────────────┤
-│  ~ $ ./status.sh                                                  │
-│  → Role:      Software Engineer @ Atomicwork                      │
-│  → Location:  Bangalore, India                                    │
-│  → Stack:     React · TypeScript · Next.js · Node.js              │
-│  → Learning:  System Design & Backend Engineering                 │
-│  → Reach me:  yashrajsingh4799@gmail.com                          │
-│  → Web:       https://www.yashrajsingh.social                     │
-└────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│   ██╗   ██╗ █████╗ ███████╗██╗  ██╗    ██████╗  █████╗  ██╗   ██╗         │
+│   ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██╔══██╗ ██║   ██║         │
+│    ╚████╔╝ ███████║███████╗███████║    ██████╔╝███████║ ██║   ██║         │
+│     ╚██╔╝  ██╔══██║╚════██║██╔══██║    ██╔══██╗██╔══██║ ╚██╗ ██╔╝         │
+│      ██║   ██║  ██║███████║██║  ██║    ██║  ██║██║  ██║  ╚████╔╝          │
+│      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═══╝           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  ~ $ ./status.sh                                                            │
+│  → Role:      Software Engineer @ Atomicwork                                │
+│  → Location:  Bangalore, India                                              │
+│  → Stack:     React · TypeScript · Next.js · Node.js                        │
+│  → Learning:  System Design & Backend Engineering                           │
+│  → Reach me:  yashrajsingh4799@gmail.com                                    │
+│  → Web:       https://www.yashrajsingh.social                               │
+└──────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <p align="center">
@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=yashrajsingh-4799&label=Profile+Views&color=667eea&style=flat" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/yashrajsingh-4799?label=Followers&style=social" alt="Followers">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/Trophies-8A2BE2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTYgOUw0IDRsNC0xIi8+PHBhdGggZD0iTTE4IDlsMi01LTQgMSIvPjxwYXRoIGQ9Ik0xMiAyMnYtN2wtMy0zIDItMyIvPjxwYXRoIGQ9Ik0xMiAyMnYtN2wzLTMtMi0zIi8+PHBhdGggZD0iTTUgMTJsLTItMiAyLTIiLz48cGF0aCBkPSJNMTkgMTJsMi0yLTIgMiIvPjwvc3ZnPg==" alt="Trophies">
+    <img src="https://img.shields.io/badge/Trophies-8A2BE2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTYgOUw0IDRsNC0xIi8+PHBhdGggZD0iTTE4IDlsMi01LTQgMSIvPjxwYXRoIGQ9Ik0xMiAyMnYtN2wtMy0zIDItMyIvPjxwYXRoIGQ9Ik0xMiAyMnYtN2wzLTMtMi0zIi8+PHBhdGggZD0iTTUgMTJsLTItMiAyLTIiLz48cGF0aCBkPSJNMTkgMTJsMi0yLTIgMiI+PC9wYXRoPjwvc3ZnPg==" alt="Trophies">
   </a>
 </p>
 
